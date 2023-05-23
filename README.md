@@ -1,5 +1,9 @@
 # 안녕하세요 :wave:
 ### 유니티 주니어 개발자입니다 :whale:
+:ocean: 누구나 즐길 수 있는, 사용자들이 다시 찾아오는 게임을 만드는 것이 목표입니다.
+:ocean: 긍정적인 마인드로 끈기있게 임합니다.
+:ocean: 팀원과의 소통을 중요하게 생각합니다.
+
 <div align=center>
 
 <h2 align="center">  About Me :runner: </h2>
