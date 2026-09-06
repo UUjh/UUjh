@@ -6,8 +6,8 @@
 
 <div align=center>
 <br/>
-<h2 align="center">  About Me :runner: </h2>
-<a href="[https://uzuz.notion.site/JiHyun-Yoo-41644e42e5864cc198cada6b21961cf4?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?](https://app.notion.com/p/maintaining/JiHyun-Yoo-41644e42e5864cc198cada6b21961cf4)style=for-the-badge&logo=Notion&logoColor=white">  <a href="https://maintaining.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">  <a href="https://github.com/UUjh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<h2 align="center">  About Me :runner:
+<a href="[(https://uzuz.notion.site/JiHyun-Yoo-41644e42e5864cc198cada6b21961cf4?pvs=4](https://app.notion.com/p/maintaining/JiHyun-Yoo-41644e42e5864cc198cada6b21961cf4)"><img src="https://img.shields.io/badge/Notion-000000?](https://app.notion.com/p/maintaining/JiHyun-Yoo-41644e42e5864cc198cada6b21961cf4)style=for-the-badge&logo=Notion&logoColor=white">  <a href="https://maintaining.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">  <a href="https://github.com/UUjh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 
 <br/>
