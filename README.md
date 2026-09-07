@@ -87,7 +87,7 @@
 - EditMode 테스트 도입. 약 25,000줄 아웃게임을 `차단 관계 → 중복 증식 차단 → 재작업 최소화` 순으로 점진 리팩터링
 
 #### AI 활용
-
+- Andrej Karpathy의 LLM Wiki를 사용해 프로젝트에 LLM Wiki 적용.
 - Dryforge를 사용한 AI 하네스 엔지니어링
 - 프로젝트 루트와 모듈 디렉터리에 계층형 `AGENTS.md` 구성. 모듈별 불변 조건 기록
 - 아키텍처 · 도메인 규칙 · 보안 · 운영 문서와 ADR 유지, 코드베이스 위키 컴파일
@@ -97,8 +97,8 @@
 
 #### Tech
 
-`Unity 6` `C#` `Firebase` `Photon Fusion`
-`UniTask` `R3` `MessagePipe` `Addressables` `Spine` `Unity Test Framework`
+`Ojbect Design` `OOAD/ Unity 6``C#` `Firebase` `Photon Fusion`
+`UniTask` `R3` `MessagePipe` `Addressables` `Spine` `Unity Test Frameworkc`
 
 ---
 
