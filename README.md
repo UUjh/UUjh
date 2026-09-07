@@ -55,7 +55,7 @@
 
 | 프로젝트 | 플랫폼 | 역할 | 상태 |
 |:---:|:---:|:---:|:---:|
-| 🐧 Project T | Android / iOS | Outgame 클라이언트 담당 | 개발 중 |
+| 🐧 Project T | Android / iOS | 클라이언트 담당 | 개발 중 |
 | 🐱 Meow's Meow | Windows | 기획 · 단독 개발 | 2025.09 Steam 출시 |
 | 👻 WHO'S WHO 2.0 | Windows | 메인 개발자 | 2025.03 Steam 출시 |
 | 🏕️ Cozy Night | Windows | 단독 개발 | 2024.11 Steam 출시 |
@@ -65,7 +65,7 @@
 ### 🐧 Project T
 
 > 모바일 파티 퀴즈 게임<br/>
-> 팀 프로젝트 · Outgame 클라이언트 담당 · Spread It · 2026.04 ~ 개발 중
+> 팀 프로젝트 · 클라이언트 담당 · Spread It · 2026.04 ~ 개발 중
 
 [![Sample Code](https://img.shields.io/badge/Sample_Code-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/UUjh/SampleCode4)
 
@@ -74,7 +74,7 @@
 
 #### 주요 기여
 
-- Firebase Cloud Functions REST API 기반 Outgame 클라이언트 개발
+- Firebase Cloud Functions REST API 기반 클라이언트 개발
 - 재화 · 아이템 · 점수 · 랭킹의 최종값을 서버 응답으로만 확정하는 서버 권위 구조. 보상 처리 순서를 `캐시 반영 → 영수증 저장 → 연출`로 고정
 - `requestId` 멱등 재시도로 구매 · 가챠 중복 결제 방지. 인증 오류 복구와 분리하고 실패 시 재화 재동기화
 - 세션 세대 검증과 요청 소유자 각인으로 계정 간 데이터 혼입 차단
@@ -88,6 +88,7 @@
 
 #### AI 활용
 
+- Dryforge를 사용한 AI 하네스 엔지니어링
 - 프로젝트 루트와 모듈 디렉터리에 계층형 `AGENTS.md` 구성. 모듈별 불변 조건 기록
 - 아키텍처 · 도메인 규칙 · 보안 · 운영 문서와 ADR 유지, 코드베이스 위키 컴파일
 - UnityMCP를 Unity Editor에 연결하여 상태 확인과 작업에 활용
