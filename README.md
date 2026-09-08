@@ -46,7 +46,8 @@
 - 출시 이후 사용자 환경에서 발생한 문제 대응과 업데이트 경험
 - 자동 테스트가 없던 프로젝트에 EditMode 테스트를 도입하고 AI 리뷰의 검증 게이트로 운용
 - `CLAUDE.md` / `AGENTS.md`, 리뷰 에이전트, 훅, UnityMCP로 AI 보조 개발 환경 구성
-
+- AI 하네스를 이용한 다수의 기기 QA 자동화.
+  
 ---
 
 ## Selected Projects
